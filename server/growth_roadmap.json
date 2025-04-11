@@ -1,0 +1,17 @@
+{
+    "Frontend Developer": {
+      "resources": [
+        {"title": "HTML & CSS", "link": "https://developer.mozilla.org/en-US/docs/Web"},
+        {"title": "JavaScript Basics", "link": "https://javascript.info/"},
+        {"title": "React for Beginners", "link": "https://reactjs.org/docs/getting-started.html"}
+      ],
+      "projects": [
+        "Build a personal portfolio",
+        "Create a weather app using APIs",
+        "Build a blog UI with React"
+      ],
+      "tools": ["VS Code", "Chrome DevTools", "GitHub"],
+      "communities": ["Hashnode", "freeCodeCamp", "r/webdev (Reddit)"]
+    }
+  }
+  

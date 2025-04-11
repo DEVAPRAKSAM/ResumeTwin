@@ -1,0 +1,10 @@
+{
+    "Web Developer": ["HTML", "CSS", "JavaScript", "React", "Git", "Node.js"],
+    "Data Scientist": ["Python", "Pandas", "NumPy", "Machine Learning", "Deep Learning", "SQL"],
+    "UI/UX Designer": ["Figma", "Adobe XD", "Wireframing", "Prototyping", "User Research"],
+    "Android Developer": ["Java", "Kotlin", "Android Studio", "XML", "Firebase"],
+    "AI Engineer": ["Python", "TensorFlow", "PyTorch", "Machine Learning", "Deep Learning", "OpenCV"],
+    "DevOps Engineer": ["Python", "Linux", "Docker", "Kubernetes", "AWS", "CI/CD"]
+
+  }
+  

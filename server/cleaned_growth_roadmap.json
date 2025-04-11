@@ -1,0 +1,25 @@
+{
+    "Frontend Developer": {
+        "resources": [
+            {
+                "title": "HTML & CSS"
+            },
+            {
+                "title": "JavaScript Basics"
+            },
+            {
+                "title": "React for Beginners"
+            }
+        ],
+        "projects": [
+            "Build a personal portfolio",
+            "Create a weather app using APIs",
+            "Build a blog UI with React"
+        ],
+        "tools": [
+            "VS Code",
+            "Chrome DevTools",
+            "GitHub"
+        ]
+    }
+}

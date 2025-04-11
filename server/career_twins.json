@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Aarav K",
+      "role": "Frontend Developer",
+      "skills": ["HTML", "CSS", "JavaScript", "React"],
+      "company": "Zoho"
+    },
+    {
+      "name": "Meena R",
+      "role": "Data Analyst",
+      "skills": ["Python", "Excel", "Pandas", "SQL"],
+      "company": "Infosys"
+    },
+    {
+      "name": "Siva V",
+      "role": "Machine Learning Intern",
+      "skills": ["Python", "TensorFlow", "NumPy", "Matplotlib"],
+      "company": "TCS"
+    },
+    {
+      "name": "Diya S",
+      "role": "Full Stack Developer",
+      "skills": ["HTML", "CSS", "JavaScript", "React", "Node.js", "MongoDB"],
+      "company": "Freelancer"
+    },
+    {
+      "name": "Arun M",
+      "role": "Embedded Systems Engineer",
+      "skills": ["C", "C++", "Arduino", "Raspberry Pi", "Microcontrollers"],
+      "company": "L&T Tech"
+    }
+  ]
+  
