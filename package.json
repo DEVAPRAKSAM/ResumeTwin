@@ -1,6 +1,7 @@
 {
   "name": "resumetwin-client",
   "version": "0.1.0",
+  "homepage": "https://DEVAPRAKSAM.github.io/ResumeTwin",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
@@ -15,8 +16,11 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+    
   },
   "eslintConfig": {
     "extends": [
